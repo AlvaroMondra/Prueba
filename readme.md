@@ -1,3 +1,3 @@
 # git froga proiektua
 
-Hau da Álvaroren GIT froga.
+Hau da Álvaroren GIT froga. A
